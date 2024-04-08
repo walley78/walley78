@@ -1,6 +1,5 @@
-### Hi there 👋
+최강 개발자가 되고싶은... 개발 꿈나무🍀
 
-My name is **Walley**!
 <!--
 **walley78/walley78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
