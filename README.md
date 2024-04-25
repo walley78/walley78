@@ -1,4 +1,7 @@
-최강 개발자가 되고싶은... 개발 꿈나무🍀
+최강 개발자가 되고싶은... 개발 꿈나무🍀  
+
+**싸피 11기**
+- Start : 2024.01.02
 
 <!--
 **walley78/walley78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
