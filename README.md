@@ -1,6 +1,7 @@
-최강 개발자가 되고싶은... 개발 꿈나무🍀  
+Hi! My name is Heejoo😄
+I want to be a fullstack web developer.
 
-**싸피 11기**
+**SSAFY 11th**
 - Start : 2024.01.02
 
 <!--
